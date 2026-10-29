@@ -1,5 +1,7 @@
 # Tauri Plugin printer
 
+## ARCHIVED Please use Alfian Lensun's Plugin. This repo is outdated
+
 Repositories which I forked from:
 
 [Alfian Lensun's Original Plugin Repository](https://github.com/alfianlensundev/tauri-plugin-printer)
